@@ -111,9 +111,9 @@ Currently looking for a **Data Analyst internship** where I can work on real bus
 
 ## 📊 GitHub Stats
 
-![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VaibhavNileshKumarDave&show_icons=true&theme=default&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=VaibhavNileshKumarDave&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavNileshKumarDave&layout=compact&theme=default&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavNileshKumarDave&layout=compact&theme=default&hide_border=true&cache_seconds=1800" />
 
 ---
 
