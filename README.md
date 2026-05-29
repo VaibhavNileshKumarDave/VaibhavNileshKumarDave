@@ -109,11 +109,14 @@ Currently looking for a **Data Analyst internship** where I can work on real bus
 
 ---
 
-## 📊 GitHub Stats
+## 📊 What I've built
 
-<img src="https://github-readme-stats.vercel.app/api?username=VaibhavNileshKumarDave&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavNileshKumarDave&layout=compact&theme=default&hide_border=true&cache_seconds=1800" />
+| Project | Dataset size | Tools |
+|---|---|---|
+| Olist E-Commerce | ~100,000 orders | MySQL · Python · Power BI |
+| IPL Analysis | ~200,000 deliveries | Python · Pandas · Matplotlib |
+| FairHire AI | Synthetic hiring data | Scikit-learn · SHAP · Flask |
+| AutoGlam Backend | 6-table schema | Flask · MySQL · REST API |
 
 ---
 
